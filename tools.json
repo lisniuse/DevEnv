@@ -1,0 +1,52 @@
+{
+  "tools": [
+    {
+      "name": "Visual Studio Code",
+      "downUrl": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user"
+    },
+    {
+      "name": "Visual Studio",
+      "downUrl": "https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030:b939f96fa86f4701b8ea7979cb994da9"
+    },
+    {
+      "name": "Nvm-Windows",
+      "downUrl": "https://github.com/coreybutler/nvm-windows/releases"
+    },
+    {
+      "name": "Python",
+      "downUrl": "https://www.python.org/downloads/"
+    },
+    {
+      "name": "PHPStudy",
+      "downUrl": "https://www.xp.cn/download.html"
+    },
+    {
+      "name": "Godot",
+      "downUrl": "https://godotengine.org/download/windows/"
+    },
+    {
+      "name": "Xshell/XFtp",
+      "downUrl": "https://pan.baidu.com/s/1u6tvZVTjx8DrNh6j_yERYg?pwd=patv"
+    },
+    {
+      "name": "WinRAR",
+      "downUrl": "https://pan.baidu.com/s/1nJatMk2CUBvfSJESG-MAaQ?pwd=s2de"
+    },
+    {
+      "name": "Unity",
+      "downUrl": "https://unity.com/cn/developer-tools"
+    },
+    {
+      "name": "UnrealEngine",
+      "downUrl": "https://www.unrealengine.com/zh-CN/download"
+    },
+    {
+      "name": "Cocos",
+      "downUrl": "https://www.cocos.com/creator-download"
+    },
+    {
+      "name": "VCPKg",
+      "downUrl": "https://github.com/microsoft/vcpkg/releases/tag/2024.07.12"
+    }
+  ]
+}
